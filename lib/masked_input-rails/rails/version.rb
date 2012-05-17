@@ -1,4 +1,4 @@
-module MaskedInputPlugin
+module MaskedInput
   module Rails
     module Version
       MAJOR = 0
