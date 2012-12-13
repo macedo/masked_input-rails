@@ -1,6 +1,7 @@
 # MaskedInputRails
 
-TODO: Write a gem description
+This is a masked input plugin for the jQuery javascript library. It allows a user to more easily enter fixed width input where you would like them to enter the data in a certain format (dates,phone numbers, etc).
+See more at: http://digitalbush.com/projects/masked-input-plugin/
 
 ## Installation
 
@@ -18,7 +19,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+In the application.js file add the following line:
+`//= require jquery.maskedinput-1.3`
 
 ## Contributing
 
