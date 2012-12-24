@@ -1,1 +1,1 @@
-require "masked_input-rails/rails"
+require "masked_input/rails"
