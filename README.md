@@ -19,8 +19,17 @@ Or install it yourself as:
 
 ## Usage
 
-In the application.js file add the following line:
-`//= require jquery.maskedinput-1.3`
+In the application.js file add the following line to use latest version (1.3.1):
+    
+    //= require jquery.maskedinput
+    
+or to specify plugin version:
+
+    //= require jquery.maskedinput-1.3
+    
+Supported versions
+ * jquery.maskedinput (1.3.1)
+ * jquery.maskedinput-1.3 (1.3)
 
 ## Contributing
 
