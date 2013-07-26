@@ -15,5 +15,5 @@ Gem::Specification.new do |gem|
   gem.require_paths = ["lib"]
   gem.version       = MaskedInput::Rails::Version::STRING
 
-  gem.add_dependency "railties", "~> 3.1"
+  gem.add_dependency "railties", "~> 4.0"
 end
